@@ -1,0 +1,7 @@
+C:\Users\brand\source\repos\E2-2\E2-2\bin\Debug\E2-2.exe.config
+C:\Users\brand\source\repos\E2-2\E2-2\bin\Debug\E2-2.exe
+C:\Users\brand\source\repos\E2-2\E2-2\bin\Debug\E2-2.pdb
+C:\Users\brand\source\repos\E2-2\E2-2\obj\Debug\E2-2.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\E2-2\E2-2\obj\Debug\E2-2.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\E2-2\E2-2\obj\Debug\E2-2.exe
+C:\Users\brand\source\repos\E2-2\E2-2\obj\Debug\E2-2.pdb
